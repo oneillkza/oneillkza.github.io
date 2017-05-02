@@ -135,9 +135,9 @@ Assembling draft genomes using contiBAIT, *Bioinformatics* (in press)
 
 ## Mentorship
 
-`2014-2017` Eva Yap (Masters Student)
+`2014` Eva Yap (Masters Student, expected completion July 2017)
 
-`2009-2017` Six undergraduate/co-op students 
+`2009` Six undergraduate/co-op students during PhD and post-doc (ongoing) 
 
 
 ## Work Experience 
