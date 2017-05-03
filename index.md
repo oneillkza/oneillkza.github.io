@@ -8,7 +8,7 @@ bibliography: works.bib
 <div id="webaddress">
 <div id="webcentred">
 <a href="mailto:koneill@bcgsc.ca">koneill@bcgsc.ca</a>
-| <a href="http://oneillkza.net">oneillkza.net</a> | <a href="https://www.linkedin.com/in/oneillkza/">LinkedIn</a> | <a href="http://orcid.org/0000-0001-7609-5905">ORCID</a>
+| <a href="http://oneillkza.net">oneillkza.net</a> | <a href="https://www.linkedin.com/in/oneillkza/">LinkedIn</a> | <a href="http://orcid.org/0000-0001-7609-5905">ORCID</a> | <a href="https://github.com/oneillkza">GitHub</a>
 </div>
 </div>
 
@@ -22,12 +22,14 @@ Postdoctoral Fellow (Karsan Lab, Michael Smith Genome Sciences Centre, Vancouver
 `2014`
 __Ph.D. (Bioinformatics) University of British Columbia, Vancouver, Canada__ 
 
+- Thesis: [Automated analysis of single cell leukemia data](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0135595) 
 - Supervisor: Dr Ryan Brinkman
 - Research undertaken at the BC Cancer Agency
 
 `2008`
 __M.Sc. (Computer Science) University of KwaZulu-Natal, Pietermaritzburg, South Africa__
 
+- Dissertation: [Relieving the Cognitive Load of Constructing Molecular Biological Ontology Based Queries by means of Visual Aids](http://publicationslist.org.s3.amazonaws.com/data/kierano/ref-5/Dissertation.pdf)
 - Research undertaken at National Bioinformatics Institute, Cape Town
 - Internship at European Bioinformatics Institute, Hinxton, UK
 
@@ -35,6 +37,7 @@ __M.Sc. (Computer Science) University of KwaZulu-Natal, Pietermaritzburg, South 
 `2004`
 __B.Sc.(Hons), University of KwaZulu-Natal, Pietermaritzburg, South Africa__
 
+- Dissertation: [Creation of an Extensible Environment for the Investigation of Genetic Algorithmic Solutions to 3D Cubic Lattice Protein Folding](http://publicationslist.org.s3.amazonaws.com/data/kierano/ref-4/Dissertation.pdf)
 - *Cum Laude*
 - Dean's commendations for 7/10 semesters attended.
 - Certificates of Merit (top in class) 14/43 modules completed.
@@ -70,7 +73,7 @@ Special Honours Award, *National Research Foundation* (South Africa)
 ### Research Articles 
 
 `2017`
-Assembling draft genomes using contiBAIT, *Bioinformatics* (in press)
+[Assembling draft genomes using contiBAIT](http://dx.doi.org/10.1093/bioinformatics/btx281), *Bioinformatics* (in press)
 
 `2015`
 [Deep profiling of multitube flow cytometry data](https://doi.org/10.1093/bioinformatics/btv008), *Bioinformatics*
