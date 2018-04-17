@@ -73,7 +73,7 @@ Special Honours Award, *National Research Foundation* (South Africa)
 ### Research Articles 
 
 `2017`
-[Assembling draft genomes using contiBAIT](http://dx.doi.org/10.1093/bioinformatics/btx281), *Bioinformatics* (in press)
+[Assembling draft genomes using contiBAIT](http://dx.doi.org/10.1093/bioinformatics/btx281), *Bioinformatics* 
 
 `2015`
 [Deep profiling of multitube flow cytometry data](https://doi.org/10.1093/bioinformatics/btv008), *Bioinformatics*
@@ -138,7 +138,7 @@ Special Honours Award, *National Research Foundation* (South Africa)
 
 ## Mentorship
 
-`2014` Eva Yap (Masters Student, expected completion July 2017)
+`2014-2017` Eva Yap (Masters Student) 
 
 `2009` Six undergraduate/co-op students during PhD and post-doc (ongoing) 
 
@@ -151,7 +151,7 @@ __Scientific Technical Advisor__, *Twentieth Century Fox*, Vancouver, Canada
 - Advised on the set of Rise of the Planet of the Apes
 
 `2008`
-__Web Developer__, *ReportLab*, London, UK
+__Python Web Developer__, *ReportLab*, London, UK
 
 
 `2001`
