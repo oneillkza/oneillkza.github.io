@@ -73,47 +73,50 @@ Special Honours Award, *National Research Foundation* (South Africa)
 ### Research Articles 
 
 `2017`
-[Assembling draft genomes using contiBAIT](http://dx.doi.org/10.1093/bioinformatics/btx281), *Bioinformatics* 
+K O’Neill, M Hills, M Gottlieb, M Borkowski, A Karsan and P Lansdorp: *[Assembling draft genomes using contiBAIT](http://dx.doi.org/10.1093/bioinformatics/btx281)*, Bioinformatics
 
 `2015`
-[Deep profiling of multitube flow cytometry data](https://doi.org/10.1093/bioinformatics/btv008), *Bioinformatics*
+**K O'Neill**, N Aghaeepour, J Parker, D Hogge, A Karsan, B Dalal R Brinkman: *[Deep profiling of multitube flow cytometry data](https://doi.org/10.1093/bioinformatics/btv008)*, Bioinformatics
 
 `2014`
-[Enhanced flowType/RchyOptimyx: a Bioconductor pipeline for discovery in high-dimensional cytometry data](https://doi.org/10.1093/bioinformatics/btt770), *Bioinformatics*
+**K O'Neill**, A Jalali, N Aghaeepour, H Hoos, R Brinkman: *[Enhanced flowType/RchyOptimyx: a Bioconductor pipeline for discovery in high-dimensional cytometry data](https://doi.org/10.1093/bioinformatics/btt770)*, Bioinformatics
 
 `2008`
-[OntoDas - a tool for facilitating the construction of complex queries to the Gene Ontology](https://doi.org/10.1186/1471-2105-9-437), *BMC Bioinformatics*
+**K O'Neill**, A Garcia, A Schwegmann, R Jimenez, D Jacobson and H Hermjakob: *[OntoDas - a tool for facilitating the construction of complex queries to the Gene Ontology](https://doi.org/10.1186/1471-2105-9-437)*, BMC Bioinformatics
 
 
 ### Commentary/Reviews
 
+`2017`
+**K O'Neill**, V Rai and A Kilpatrick: *[The International Society for Computational Biology and WikiProject Computational Biology: celebrating 10 years of collaboration towards open access](https://doi.org/10.1093/bioinformatics/btx388)*, Bioinformatics
+
 `2016`
-[Publishing code is essential for reproducible flow cytometry bioinformatics](https://doi.org/10.1002/cyto.a.22805), *Cytometry A*
+**K O'Neill** and R Brinkman: *[Publishing code is essential for reproducible flow cytometry bioinformatics](https://doi.org/10.1002/cyto.a.22805)*, Cytometry A
 
 `2013`
-[Flow Cytometry Bioinformatics](https://doi.org/10.1371/journal.pcbi.1003365), *PLoS Computational Biology*
+**K O'Neill**, N Aghaeepour, J Špidlen, R Brinkman: *[Flow Cytometry Bioinformatics](https://doi.org/10.1371/journal.pcbi.1003365)*, PLoS Computational Biology
 
 
 ## Co-authored Publications 
 
 `2016`
-[MiR-139-5p is a potent tumor suppressor in adult acute myeloid leukemia](https://doi.org/10.1038/bcj.2016.110), *Blood Cancer Journal*
+K Krowiorz, J Ruschmann, C Lai, M Ngom, T Maetzig, V Martins, A Scheffold, E Schneider, N Pochert, C Miller, L Palmqvist, A Staffas, M Mulaw, S R Bohl, C Buske, M Heuser, J Kraus, **K O'Neill**, C L Hansen, O I Petriv, H Kestler, H Döhner, L Bullinger, K Döhner, R K Humphries, A Rouhi and F Kuchenbauer:   *[MiR-139-5p is a potent tumor suppressor in adult acute myeloid leukemia](https://doi.org/10.1038/bcj.2016.110)*, Blood Cancer Journal
 
 `2013`
-[Critical assessment of automated flow cytometry data analysis techniques](https://doi.org/10.1038/nmeth.2365), *Nature Methods*
+N Aghaeepour, G Finak, **The FlowCAP Consortium**, The DREAM Consortium, H Hoos, T Mosmann, R Brinkman, R Gottardo and R Scheuermann: *[Critical assessment of automated flow cytometry data analysis techniques](https://doi.org/10.1038/nmeth.2365)*, Nature Methods
 
-[BAIT: Organizing genomes and mapping rearrangements in single cells](https://doi.org/10.1186/gm486), *Genome Medicine*
+M Hills, **K O'Neill**, E Falconer, R Brinkman and P Lansdorp: *[BAIT: Organizing genomes and mapping rearrangements in single cells](https://doi.org/10.1186/gm486)*, Genome Medicine
 
 `2012`
-[RchyOptimyx: Cellular hierarchy optimization for flow cytometry](https://doi.org/10.1002/cyto.a.22209), *Cytometry A*
+N Aghaeepour, A Jalali,  **K O'Neill**, P Chattopadhyay,  M Roederer, H Hoos, R Brinkman *[RchyOptimyx: Cellular hierarchy optimization for flow cytometry](https://doi.org/10.1002/cyto.a.22209)*, Cytometry A
 
-[Early immunologic correlates of HIV protection can be identified from computational analysis of complex multivariate T-cell flow cytometry assays](https://doi.org/10.1093/bioinformatics/bts082), *Bioinformatics*
+N Aghaeepour, P Chattopadhyay, A Ganesan, **K O'Neill**, H Zare, A Jalali, H Hoos, M Roederer, R Brinkman: *[Early immunologic correlates of HIV protection can be identified from computational analysis of complex multivariate T-cell flow cytometry assays](https://doi.org/10.1093/bioinformatics/bts082)*, Bioinformatics
 
 `2010`
-[Developing Ontologies within Decentralised Settings](https://doi.org/10.1007/978-1-4419-5908-9_4), *Semantic e-Science*
+A Garcia, **K O’Neill**, L Garcia, P Lord, R Stevens, O Corcho, F Gibson *[Developing Ontologies within Decentralised Settings](https://doi.org/10.1007/978-1-4419-5908-9_4)*, Semantic e-Science
 
 `2008`
-[Dasty2, an Ajax protein DAS client](https://doi.org/10.1093/bioinformatics/btn387), *Bioinformatics*
+R Jimenez, A Quinn, A Garcia, A Labarga, **K O'Neill**, F Martinez, G Salazar, H Hermjakob: *[Dasty2, an Ajax protein DAS client](https://doi.org/10.1093/bioinformatics/btn387)*, Bioinformatics
 
 
 ## Scientific Software 
@@ -138,7 +141,7 @@ Special Honours Award, *National Research Foundation* (South Africa)
 
 ## Mentorship
 
-`2014-2017` Eva Yap (Masters Student) 
+`2014` Eva Yap (Masters Student, completed 2017) 
 
 `2009` Six undergraduate/co-op students during PhD and post-doc (ongoing) 
 
