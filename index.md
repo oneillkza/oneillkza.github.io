@@ -139,6 +139,9 @@ R Jimenez, A Quinn, A Garcia, A Labarga, **K O'Neill**, F Martinez, G Salazar, H
 
 ## Scientific Software 
 
+`2020`
+[NanoMethPhase](https://github.com/vahidAK/NanoMethPhase)
+
 `2016`
 [ContiBAIT](https://bioconductor.org/packages/release/bioc/html/contiBAIT.html)
 
@@ -156,26 +159,52 @@ R Jimenez, A Quinn, A Garcia, A Labarga, **K O'Neill**, F Martinez, G Salazar, H
 
 ## Mentorship
 
+`2020` Jeremy Fan (Masters Student, ongoing), Sarah Dada (PhD Student, ongoing)
+
+`2019` Vahid Akbari (PhD Student, ongoing)
+
 `2014` Eva Yap (Masters Student, completed 2017) 
 
-`2009` Six undergraduate/co-op students during PhD and post-doc (ongoing) 
+`2009` Six undergraduate/co-op students during PhD and post-doc
 
 
 ## Work Experience 
+
+`2018 - present`
+__Bioinformatics Process Development Coordinator__, *Jones Lab, Michael Smith Genome Sciences Centre*, Vancouver, Canada
+
+- Coordinate between directors, laboratory, production bioinformatics and students to implement production-scale analysis workflows for use on new sequencing technologies, with a range of applications in health research and beyond.
+
+`2014 - 2018`
+__Postdoctoral Fellow__, *Karsan Lab, Michael Smith Genome Sciences Centre*, Vancouver, Canada
+
+- Mentored masters students, collaborated with biologists and other labs, co-led a small bioinformatics team.
 
 `2010`
 __Scientific Technical Advisor__, *Twentieth Century Fox*, Vancouver, Canada
 
 - Advised on the set of Rise of the Planet of the Apes
 
+`2009, 2010`
+__Teaching Assistant (Biology 200)__, *University of British Columbia*, Vancouver, Canada
+
 `2008`
 __Python Web Developer__, *ReportLab*, London, UK
-
 
 `2001`
 __Gap Year__, *Various Positions*, London, UK 
 
 
+## Volunteer Experience 
+
+`2016 - 2018`
+__Member/Founder__, *Equity, Diversity and Inclusion Task Force*, International Society for Computational Biology
+
+`2009 - Present`
+__Board Member, Sometime President__, *AMS Bike Co-op and Bike Kitchen*, University of British Columbia, Vancouver, BC, Canada
+
+`2000`
+__Editor__, *NUX Student Newspaper*, University of Natal, Pietermaritzburg, KZN, South Africa
 
 <!-- ### Footer
 
